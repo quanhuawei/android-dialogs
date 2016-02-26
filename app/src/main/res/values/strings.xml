@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AndroidDialog</string>
+    <string name="button_normal">普通Dialog</string>
+    <string name="button_multi_btn">多按钮Dialog</string>
+    <string name="button_list">列表Dialog</string>
+    <string name="button_single_choice">单选Dialog</string>
+    <string name="button_multi_choice">多选Dialog</string>
+    <string name="button_progress">进度条Dialog</string>
+    <string name="button_waiting">等待Dialog</string>
+    <string name="button_customize">自定义Dialog</string>
+    <string name="button_input">输入Dialog</string>
+</resources>
